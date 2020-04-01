@@ -10,5 +10,5 @@
   4) A Follower and Following Concept is used. Eg :- If You are an user then you can search a perosns name or search him/her through his/her's id code to find and follow or unfollow that person.
   5) You can Change your profile pic from given provided profile pics.
   6) You can update your name and username.
-  
-If You Liked the Code 
+
+Thanks For Visiting !!!!
