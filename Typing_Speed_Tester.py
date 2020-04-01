@@ -449,7 +449,7 @@ line=Label(win,text="",font="helvetica 20",bg="#fff",width=15,height=4,bd=0,bord
 def profil():
     profil1()
 
-prof=PIL.ImageTk.PhotoImage(PIL.Image.open(f"D:\Python_Projects\Ajay F085\Type_Speed_Tester\TST_Images\{universal[-1]}.png",mode='r'))
+prof=PIL.ImageTk.PhotoImage(PIL.Image.open(rf"{image_url}\TST_Images\{universal[-1]}.png",mode='r'))
 profile=Button(win,image=prof,command=profil,bg="#fff",activebackground="#fff",bd=0,cursor="hand2")
 
 def home_():
