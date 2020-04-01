@@ -1,4 +1,4 @@
-# Typing-Speed-Tester
+# Typing-Ritual
 
   This Repository Contains a College Project.
   
